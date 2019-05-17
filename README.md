@@ -9,3 +9,5 @@ node js pagination implementaion and get filtter results on query (address only)
 4 open http://localhost:5000/api/posts?p=6&address=pl 
 
 # Note:- p used for page number and address used for string match for  address 
+
+Email : nitin.1992tyagi@gmail.com
